@@ -24,6 +24,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install seaborn-doc-zh
+seaborn-doc-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
